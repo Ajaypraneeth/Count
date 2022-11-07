@@ -1,0 +1,44 @@
+.wrapper{
+  border: 5px solid black;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  margin-right: 500px;
+  margin-left: 500px;;
+  background-color: rgb(173, 230, 185);
+}
+.container{
+  width: 100px;
+  height: 100px;
+  border:none;
+  border-radius: 50px;
+}
+.add{
+  padding: 50px;
+  margin-right: 500px;
+}
+.row{
+  display: flex;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+button{
+  background-color: #4e24b1;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: dotted;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+.increment{
+  padding-left: 100px;
+  
+}
+h1{
+  padding-left: 200px;
+  margin-left: 100px;
+}
+
